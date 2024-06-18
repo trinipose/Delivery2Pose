@@ -46,7 +46,7 @@ body {background-color: var(--main-color);}
     width: 100%; } 
   
   h1 {
-    font-size: 3.5rem;
+    font-size: 3rem;
     font-family: "Oleo Script";
     color: var(--main-color);
     text-shadow: 2px 2px 4px #E52D0D;
@@ -54,7 +54,7 @@ body {background-color: var(--main-color);}
   } 
 
   .shadep{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-family: "Comfortaa";
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
     color: white;
