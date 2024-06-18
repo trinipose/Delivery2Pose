@@ -62,13 +62,10 @@ body {background-color: var(--main-color);}
   
 /* features */
 
-.fa-plane {color: var(--fifth-color)}
 .loc{text-shadow: 1px 1px 3px var(--fifth-color);}
 
-.fa-cocktail {color: #355848}
 .cul {text-shadow: 1px 1px 3px #355848;}
 
-.fa-shopping-bag {color: #04999C;}
 .shop{text-shadow: 1px 1px 3px #04999C;}
 
 h3 {font-family: "Oleo Script";
