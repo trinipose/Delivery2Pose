@@ -87,7 +87,7 @@ color: var(--third-color);
 
 @media (max-width: 768px) {
   .footer {
-    font-size: 1rem;
+    font-size: calc (1rem+2vw);
   }
 }
 
